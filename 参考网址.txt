@@ -1,0 +1,5 @@
+http://www.jb51.net/article/97391.htm
+
+
+使用mime-types将图片转成base64(通过npm  安装)
+mime-types

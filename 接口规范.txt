@@ -1,0 +1,11 @@
+请求页面：
+//获取图片
+/api/getimg
+//获取验证结果
+/api/isok
+
+
+返回数据：
+/api/getimg=》{img:"base64图片"，y:"120"}
+
+/api/isok=> { isok:true/false }
