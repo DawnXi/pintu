@@ -1,5 +1,8 @@
 http://www.jb51.net/article/97391.htm
 
 
-使用mime-types将图片转成base64(通过npm  安装)
+浣跨敤mime-types灏嗗浘鐗囪浆鎴恇ase64(閫氳繃npm  瀹夎)
 mime-types
+
+
+娴嬭瘯鍥剧墖鍦板潃锛歨ttps://picsum.photos/500/500?image=399
